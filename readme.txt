@@ -2,7 +2,7 @@
 Contributors: (infoway)
 Tags: social
 Requires at least: 3.0.1
-Tested up to: 3.9
+Tested up to: 4.2.2
 Stable tag: 0.0.1
 Social Photo Gallery allow Polaroid image gallery.
 
