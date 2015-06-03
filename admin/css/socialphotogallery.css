@@ -1,0 +1,57 @@
+
+
+
+.show_album_table {margin-top:25px;}
+
+.show_album_table th { text-align:center;}
+.show_album_table td { text-align:center; vertical-align:middle; padding:15px;}
+
+th.table_title { background-color: #F1F1F1; text-align:center; color:#993300;
+background-image: -ms-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -moz-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -o-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -webkit-gradient(linear,left top,left bottom,from(#F9F9F9),to(#ECECEC));
+background-image: -webkit-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: linear-gradient(top,#F9F9F9,#ECECEC);}
+
+
+
+.show_album_table tr:nth-child(odd) {
+	background:#f3f3f3;
+  
+}
+
+
+.add_album { padding:20px 20px !important;}
+
+.add_album_sec tr:nth-child(odd) {
+	background:#F8F8F8;
+  
+}
+
+
+.success_message { color:#339966;}
+.error_message { color:#FF0000;}
+.add_img {background-color: #F1F1F1; height:30px; line-height:30px; font-size:16px !important;color:#993300 !important;
+background-image: -ms-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -moz-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -o-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -webkit-gradient(linear,left top,left bottom,from(#F9F9F9),to(#ECECEC));
+background-image: -webkit-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: linear-gradient(top,#F9F9F9,#ECECEC);}
+
+.add_album_sec th {background-color: #F1F1F1;color:#993300; height:22px; line-height:22px; font-size:16px !important;color:#993300;
+background-image: -ms-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -moz-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -o-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -webkit-gradient(linear,left top,left bottom,from(#F9F9F9),to(#ECECEC));
+background-image: -webkit-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: linear-gradient(top,#F9F9F9,#ECECEC);}
+
+.sp_title {background-color: #F1F1F1;color:#993300; height:22px; line-height:22px; font-size:16px !important;color:#993300;
+background-image: -ms-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -moz-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -o-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: -webkit-gradient(linear,left top,left bottom,from(#F9F9F9),to(#ECECEC));
+background-image: -webkit-linear-gradient(top,#F9F9F9,#ECECEC);
+background-image: linear-gradient(top,#F9F9F9,#ECECEC);}

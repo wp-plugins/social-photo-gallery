@@ -1,0 +1,4 @@
+Shortcodes:
+=========
+
+[social-photo-gallery]: Put this code where you want to add this gallery
