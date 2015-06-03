@@ -1,4 +1,12 @@
-Features:
+===Social Photo Gallery===
+Contributors: (infoway)
+Tags: social
+Requires at least: 3.0.1
+Tested up to: 3.9
+Stable tag: 0.0.1
+Social Photo Gallery allow Polaroid image gallery.
+
+==Description==
 This is a Polaroid image gallery plugins with the following features:
 * Create sub folders and upload photos to subfolder. Each subfolder represents a separate photo album 
 * Must be possible to upload a cover photo for each album
@@ -13,7 +21,7 @@ This is a Polaroid image gallery plugins with the following features:
 
 It would be ideal if this photo gallery worked in a similar way to Yootheme's Wordpress widgetkit Gallery http://www.yootheme.com/demo/themes/wordpress/2012/sync/?page_id=112 (see polaroid example)
 
-
+== Installation ==
 Settings:
 After activation of plugins it will create a menu items on admin end named : Social Photo Gallery and this section contains for sub-menus
 i.	Show Albums: This section is used to show the listing of all albums with show, edit, delete actions
@@ -35,6 +43,8 @@ g.	Back to list of albums
 h.	Back to gallery
 i.	Link class
 
+= 1.0 =
+The First Release
 
 
 
